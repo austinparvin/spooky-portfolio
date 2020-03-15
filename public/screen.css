@@ -39,8 +39,8 @@ nav.main-menu ul li a {
   padding: 20px 0 5px;
 }
 
-div.link {
-  display: flex;
+div.link, .top {
+  display: none;
 }
 
 .top {
@@ -196,7 +196,7 @@ footer {
   margin-bottom: 48px;
 }
 
-@media only screen and (min-width: 600px) {
+@media only screen and (min-width: 767px) {
   body {
     max-width: 1200px;
   }
@@ -257,6 +257,12 @@ footer {
     grid-column: 2/3;
     grid-row: 4;
   }
+  div.link {
+    display: flex;
+  }
+  .top {
+    display: inline;
+  }
 }
 
 @media only screen and (min-width: 1200px) {
@@ -314,5 +320,11 @@ footer {
     background-image: url('./images/dark-pumpkin.jpeg');
     grid-column: 4/7;
     grid-row: 4;
+  }
+  div.link {
+    display: flex;
+  }
+  .top {
+    display: inline;
   }
 }
