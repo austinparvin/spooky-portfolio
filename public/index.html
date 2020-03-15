@@ -7,17 +7,153 @@
   <title>Spooky Portfolio</title>
   <link rel="shortcut icon" href="/favicon.ico" />
   <link rel="stylesheet" href="/screen.css" />
-  <link href="https://fonts.googleapis.com/css?family=Josefin+Sans&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Josefin+Sans:400,600&display=swap" rel="stylesheet">
   <style>
     body {
       font-family: 'Josefin Sans', sans-serif;
-      font-size: 48px;
+      font-size: 24px;
+      color: rgb(216, 216, 216);
+      background-color: #333;
+      max-width: 400px;
+      margin: auto;
+    }
+
+    ul {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+      font-size: 16px;
+      color: #979797;
+    }
+
+    ul span {
+      display: flex;
+      justify-content: center;
+
+    }
+
+    li {
+      padding: 15px;
+    }
+
+    li a {
+      color: #979797;
+      text-decoration: none;
+    }
+
+    a.first-link {
+      color: rgb(255, 94, 94);
+    }
+
+    h2 {
+      margin: 0;
+      font-weight: 600;
+      font-family: 'Josefin Sans', sans-serif;
+    }
+
+    nav {
+      padding: 30px 15px 20px;
+    }
+
+    nav h2 {
+      font-size: 24px;
+      padding-top: 20px;
+    }
+
+    section.hero-text,
+    footer {
+      padding: 110px 0;
+    }
+
+    section.hero-text h2 {
+      font-size: 30px;
+      text-align: center;
+      padding: 0 15px;
+      line-height: 1.2;
+    }
+
+    section.hero-text span {
+      color: rgb(255, 94, 94);
+    }
+
+    img {
+      width: 370px;
+      padding: 15px 15px;
+    }
+
+    footer {
+      text-align: center;
+    }
+
+    footer a {
+      text-decoration: none;
+      display: inline-block;
+      font-size: 14px;
+      min-width: 140px;
+      text-align: center;
+      padding: 15px 10px;
+      position: relative;
+      color: #fff;
+      border: none;
+      background-color: rgb(0, 0, 0);
+      margin-right: 15px;
+      z-index: 1;
+    }
+
+    footer h2 {
+      margin-bottom: 48px;
     }
   </style>
 </head>
 
 <body>
-  <h1 class="hello-world">Hello, World!</h1>
+  <nav>
+    <h2>
+      Dr. Acula's Portfolio
+    </h2>
+  </nav>
+  <section class="hero-text">
+    <h2>
+      I’m a <span>web developer</span>, with a passion for night mode.
+    </h2>
+  </section>
+  <section class="portfolio-filter-links">
+    <ul>
+      <span>
+        <li><a class="first-link" href="#">All</a></li>
+        <li><a href="#">Web Design</a></li>
+        <li><a href="#">Digital Design</a></li>
+      </span>
+      <span>
+        <li><a href="#">3D Rendering</a></li>
+        <li><a href="#">Brand Identity</a></li>
+      </span>
+    </ul>
+  </section>
+  <section class="portfolio">
+    <section>
+      <img src="./images/skull.jpg" alt="Skull engraved with flowers">
+      <img src="./images/pumpkin.jpg" alt="Orange pumpkin and fallen leaf">
+    </section>
+    <section>
+      <img src="./images/red-door.jpg" alt="Front of house with red door and pumpkin on doorstep">
+      <img src="./images/skull-and-pikachu.jpg" alt="Pumpkin carvings of a skull and pikachu">
+      <img src="./images/costume.jpeg" alt="Boy in space costume outside">
+    </section>
+    <section>
+      <img src="./images/pumpkin-truck.jpeg" alt="Pumpkins in truck bed">
+    </section>
+    <section>
+      <img src="./images/candle.jpeg" alt="Three lit red candles">
+      <img src="./images/dark-pumpkin.jpeg" alt="Carved pumpkin">
+    </section>
+  </section>
+  <footer>
+    <div class="container">
+      <h2 class="section-title mb-5">Let’s work together</h2>
+      <a href="#">Get in touch</a>
+    </div>
+  </footer>
 </body>
 
 </html>
