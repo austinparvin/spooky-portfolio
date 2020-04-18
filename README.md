@@ -44,8 +44,7 @@ This is a responsive html website.
 ![Spooky Desktop](http://g.recordit.co/E9PLOanYLt.gif)
 
 ### Tablet Mockup
-
-![Spooky Tablet Mockup](https://i.imgur.com/Em38mG1.jpg)
+<img src="https://i.imgur.com/Em38mG1.jpg" alt="Spooky Tablet Mockup" width="25%" height="25%">
 
 ### Tablet Live
 
@@ -53,7 +52,7 @@ This is a responsive html website.
 
 ### Mobile Mockup
 
-<img src="https://i.imgur.com/92K5fmP.jpg" alt="alt text" width="50%" height="50%">
+<img src="https://i.imgur.com/92K5fmP.jpg" alt="alt text" width="25%" height="25%">
 
 ### Mobile Live
 
