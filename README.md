@@ -46,7 +46,7 @@ This is a responsive html website.
 <img src="https://i.imgur.com/Em38mG1.jpg" alt="Spooky Tablet Mockup" width="25%" height="25%">
 
 ### Tablet Live
-<img src="http://g.recordit.co/KNZdcfGB93.gif" alt="Spooky Tablet" width="100%" height="100%">
+<img src="http://g.recordit.co/KNZdcfGB93.gif" alt="Spooky Tablet" width="50%" height="50%">
 
 
 # Mobile
