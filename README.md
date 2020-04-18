@@ -16,7 +16,6 @@ This is a responsive html website.
 - [CSS](https://www.w3schools.com/css/)
 - [FLEXBOX](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox)
 - [GRID](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
-- [NETLIFY](https://docs.netlify.com/?_ga=2.56383019.1272475466.1587169866-1421079835.1583768648)
 
 ## Featured Code
 
