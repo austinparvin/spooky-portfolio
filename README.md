@@ -37,10 +37,10 @@ This is a responsive html website.
 ## Mock up given
 
 ### Desktop Mockup
- <img src="https://i.imgur.com/PrcEy8K.jpg" alt="Spooky Desktop Mockup" width="25%" height="25%"><img src="http://g.recordit.co/E9PLOanYLt.gif" alt="Spooky Desktop" width="25%" height="25%">
+ <img src="https://i.imgur.com/PrcEy8K.jpg" alt="Spooky Desktop Mockup" width="25%" height="25%">
  
 ### Desktop Live
-
+<img src="http://g.recordit.co/E9PLOanYLt.gif" alt="Spooky Desktop" width="25%" height="25%">
 
 ### Tablet Mockup
 <img src="https://i.imgur.com/Em38mG1.jpg" alt="Spooky Tablet Mockup" width="25%" height="25%">
