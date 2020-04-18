@@ -32,22 +32,24 @@ This is a responsive html website.
  ## Live Site
 
 [LIVE SITE](https://spooky-portfolio-austinparvin.netlify.app/)
-<img src="https://spooky-portfolio-austinparvin.netlify.app/" alt="alt text" width="25%" height="25%">
 
 # Desktop
-
 ### Desktop Mockup
  <img src="https://i.imgur.com/PrcEy8K.jpg" alt="Spooky Desktop Mockup" width="25%" height="25%">
  
 ### Desktop Live
 <img src="http://g.recordit.co/E9PLOanYLt.gif" alt="Spooky Desktop" width="100%" height="100%">
 
+
+# Tablet
 ### Tablet Mockup
 <img src="https://i.imgur.com/Em38mG1.jpg" alt="Spooky Tablet Mockup" width="25%" height="25%">
 
 ### Tablet Live
-<img src="http://g.recordit.co/KNZdcfGB93.gif" alt="Spooky Tablet" width="25%" height="25%">
+<img src="http://g.recordit.co/KNZdcfGB93.gif" alt="Spooky Tablet" width="100%" height="100%">
 
+
+# Mobile
 ### Mobile Mockup
 <img src="https://i.imgur.com/92K5fmP.jpg" alt="Mobile Mockup" width="25%" height="25%">
 
