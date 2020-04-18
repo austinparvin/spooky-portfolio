@@ -53,7 +53,7 @@ This is a responsive html website.
 
 ### Mobile Mockup
 
-![Spooky Mobile Mockup](https://imgur.com/gallery/mN5SD00)
+![Spooky Mobile Mockup](https://i.imgur.com/92K5fmP.jpg)
 
 ### Mobile Live
 
