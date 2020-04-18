@@ -34,13 +34,13 @@ This is a responsive html website.
 [LIVE SITE](https://spooky-portfolio-austinparvin.netlify.app/)
 <img src="https://spooky-portfolio-austinparvin.netlify.app/" alt="alt text" width="25%" height="25%">
 
-## Mock up given
+# Desktop
 
 ### Desktop Mockup
  <img src="https://i.imgur.com/PrcEy8K.jpg" alt="Spooky Desktop Mockup" width="25%" height="25%">
  
 ### Desktop Live
-<img src="http://g.recordit.co/E9PLOanYLt.gif" alt="Spooky Desktop" width="25%" height="25%">
+<img src="http://g.recordit.co/E9PLOanYLt.gif" alt="Spooky Desktop" width="100%" height="100%">
 
 ### Tablet Mockup
 <img src="https://i.imgur.com/Em38mG1.jpg" alt="Spooky Tablet Mockup" width="25%" height="25%">
