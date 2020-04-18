@@ -32,32 +32,27 @@ This is a responsive html website.
  ## Live Site
 
 [LIVE SITE](https://spooky-portfolio-austinparvin.netlify.app/)
+<img src="https://spooky-portfolio-austinparvin.netlify.app/" alt="alt text" width="25%" height="25%">
 
 ## Mock up given
 
 ### Desktop Mockup
-
-![Spooky Desktop Mockup](https://i.imgur.com/PrcEy8K.jpg)
+ <img src="https://i.imgur.com/PrcEy8K.jpg" alt="Spooky Desktop Mockup" width="25%" height="25%">
  
 ### Desktop Live
-
-![Spooky Desktop](http://g.recordit.co/E9PLOanYLt.gif)
+<img src="http://g.recordit.co/E9PLOanYLt.gif" alt="Spooky Desktop" width="25%" height="25%">
 
 ### Tablet Mockup
 <img src="https://i.imgur.com/Em38mG1.jpg" alt="Spooky Tablet Mockup" width="25%" height="25%">
 
 ### Tablet Live
-
-![Spooky Tablet](http://g.recordit.co/KNZdcfGB93.gif)
+<img src="http://g.recordit.co/KNZdcfGB93.gif" alt="Spooky Tablet" width="25%" height="25%">
 
 ### Mobile Mockup
-
-<img src="https://i.imgur.com/92K5fmP.jpg" alt="alt text" width="25%" height="25%">
+<img src="https://i.imgur.com/92K5fmP.jpg" alt="Mobile Mockup" width="25%" height="25%">
 
 ### Mobile Live
-
-![Spooky Mobile](http://g.recordit.co/aoz3CszDS6.gif)
-
+<img src="http://g.recordit.co/aoz3CszDS6.gif" alt="Spooky Mobile" width="25%" height="25%">
 
 
 
